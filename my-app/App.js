@@ -18,6 +18,16 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     
   },
+  textcomponent:{
+ 
+     fontSize:24,
+ 
+   },
+   name:{
+     fontWeight:'bold',
+ 
+   },
+ 
 
  
 });
