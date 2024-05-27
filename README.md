@@ -11,6 +11,4 @@
 >
 > And other styles were added to the app.
 ## SCREENSHOTS OF APP
-
-
-![Image](image.png)
+![alt text](image.png)
